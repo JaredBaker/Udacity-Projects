@@ -1,0 +1,6 @@
+P1: Mockup to Website
+
+List of resources used:
+1- http://jigsaw.w3.org/css-validator/validator
+2- http://validator.w3.org/
+3- http://www.w3schools.com/ (for text-spacing styling guidance)
